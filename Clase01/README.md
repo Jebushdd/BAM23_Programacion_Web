@@ -33,8 +33,9 @@ Pueden econtrar las indicaciones de instalación en la pestaña RECURSOS ADICION
     2. Copiamos el comando que nos muestra la pantalla de repositorio vacío ```git remote add origin git@github.com:Jebushdd/BAM_C51.git```. 
     3. Vamos a nuestro Git Bash e iniciamos un proyecto en la carpeta de nuestra preferencia.
     4. Luego de haber iniciado nuestro proyecto con ```git init```, realizamos la conexión con ```git remote add origin```.
-    5. Podemos comprobar si la conexión se realizó correctamente si al ejecutar el comando ```git remote -v```, vemos las conexiones remotas.
+    5. Podemos comprobar si la conexión se realizó correctamente si al ejecutar el comando ```git remote -v```, vemos las conexiones remotas.  
     ![git remote -v](https://github.com/Jebushdd/BAM23_Programacion_Web/blob/source/readme_clase_01/git_remote_v.png?raw=true)
     6. Listo! Ahora nuestro repositorio local es el mismo que el repositorio en GitHub! Eso quiere decir que cuando guardemos una nueva versión de nuestro proyecto en Git, vamos a poder subirlo a su correspondiente repositorio en GitHub!
 - Subir mis cambios locales a GitHub (git push)  
-    Para subir nuestros avances al repositorio en GitHub solamente debemos realizar ```git push origin nombre_de_tu_rama```
+    Para subir nuestros avances al repositorio en GitHub solamente debemos realizar ```git push origin nombre_de_tu_rama```  
+    ![git push](https://github.com/Jebushdd/BAM23_Programacion_Web/blob/source/readme_clase_01/git_push.png?raw=true)
