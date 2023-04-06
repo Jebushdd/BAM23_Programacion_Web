@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Jebushdd/BAM23_Programacion_Web/raw/source/banner_bam.png)
+![MasterHead](https://github.com/Jebushdd/BAM23_Programacion_Web/blob/source/readme_raiz/banner_bam.png?raw=true)
 
 
 # Programación Web Inicial - Front End
