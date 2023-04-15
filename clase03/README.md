@@ -10,9 +10,9 @@ En este readme solamente vamos a enumerar lo que aprendimos.
     3. etiqueta \<div> para crear bloques que contengan otras etiquetas
 
 - Comenzamos a aprender CSS  
-    1. Conectar nuestro archivo _css_ a nuestro archivo _HTML_. Rutas relativas y absolutas
-    2. Sintaxis básica de CSS. Seleccionar etiquetas y clases
-    3. Funcionamiento básico de CSS. Padres e hijos, herencia, jerarquías, estilo en cascada
-    4. Propiedades básicas con CSS. Margin, padding, border, color, background-color
+    1. Enlazar nuestro archivo _HTML_ con nuestro archivo _css_. Rutas relativas y absolutas.
+    2. Sintaxis básica de CSS. Seleccionar etiquetas y clases.
+    3. Funcionamiento básico de CSS. Padres e hijos, herencia, jerarquías, estilo en cascada.
+    4. Propiedades básicas con CSS. Margin, padding, border, color, background-color.
 
 Pueden encontrar los archivos que fuimos modificando en esta misma carpeta!
