@@ -20,15 +20,26 @@ div a{
     color: darkseagreen;
 }
 
-/* .vinculo2{
+a{
+    text-decoration: none;
+}
+
+.vinculo2{
     color: aliceblue;
     background-color: burlywood;
-} */
+}
 
+#cinco{
+    color: red;
+    /* font-family: 'Lucida Sans'; */
+    font-size: 25px;
+}
 
 .parrafo1{
     margin: 15px;
     padding: 15px;
     color: rebeccapurple;
     background-color: ghostwhite;
+    line-height: 50px;
+    text-align: center;
 }
