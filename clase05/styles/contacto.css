@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    background-color: rgb(99, 139, 169);
+    color: aliceblue;
+}
+
+#navbar a{
+    color: aliceblue;
+}
+
+#navbar img{
+    width: 45px;
+    height: 45px;
+}
+
+#navbar .marca{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+}
